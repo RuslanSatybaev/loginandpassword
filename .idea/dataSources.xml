@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="securitydb@localhost" uuid="12d50e4e-7e01-4758-a7bc-210d03f2f46b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/securitydb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="d74fqbd7mrsd2v@ec2-54-75-246-118.eu-west-1.compute.amazonaws.com" uuid="b8e3ec15-70ba-4ab1-8960-3996da49825b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-75-246-118.eu-west-1.compute.amazonaws.com:5432/d74fqbd7mrsd2v</jdbc-url>
+    </data-source>
+  </component>
+</project>
